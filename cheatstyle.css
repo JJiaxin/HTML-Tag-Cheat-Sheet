@@ -1,0 +1,23 @@
+body {
+    color: darkolivegreen;
+    text-align: center;
+    background-color: cornsilk;
+    font-family: monospace;
+}
+
+thead {
+    background-color: darkkhaki;
+}
+
+table {
+    margin: auto;
+    border: 2px solid darkolivegreen;
+}
+
+th {
+    font-size: 15px;
+}
+
+td {
+    border-top: 1px solid darkolivegreen;
+}
